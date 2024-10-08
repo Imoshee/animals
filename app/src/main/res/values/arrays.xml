@@ -2,20 +2,20 @@
 <resources>
 
     <string-array name="stones">
-        <item>Chess Piece - King</item>
-        <item>Chess Piece - Queen</item>
-        <item>Chess Piece - Bishop</item>
-        <item>Chess Piece - Knight</item>
-        <item>Chess Piece - Rook</item>
-        <item>Chess Piece - Pawn</item>
+        <item>Animal-chicken</item>
+        <item>Animal-zebra</item>
+        <item>Animal-camel</item>
+        <item>Animal-cat</item>
+        <item>Animal-hippo</item>
+        <item>Animal-lion</item>
     </string-array>
 
     <string-array name="details">
-        <item>The king moves exactly one vacant square in any direction: forwards, backwards, left, right, or diagonally. It can also castle in conjunction with a rook.</item>
-        <item>The queen moves any number of vacant squares in any direction: forwards, backwards, left, right, or diagonally, in a straight line.</item>
-        <item>The bishop moves any number of vacant squares diagonally in a straight line. Consequently, a bishop stays on squares of the same color throughout a game. The two bishops each player starts with move on squares of opposite colors.</item>
-        <item>The knight moves on an extended diagonal from one corner of any 2×3 rectangle of squares to the furthest opposite corner. Consequently, the knight alternates its square color each time it moves. The knight is the only piece that jumps over any intervening piece(s) when moving (castling being the only special instance in which pieces jump over one another).</item>
-        <item>The rook moves any number of vacant squares forwards, backwards, left, or right in a straight line. It also takes part, along with the king, in a special move called castling.</item>
-        <item>The pawn moves forward exactly one space, or optionally, two spaces when on its starting square, toward the opponent\'s side of the board. When there is an enemy piece one square diagonally ahead of the pawn, either left or right, then the pawn may capture that piece. A pawn can perform a special type of capture of an enemy pawn called en passant. If the pawn reaches a square on the back rank of the opponent, it promotes to the player\'s choice of a queen, rook, bishop, or knight</item>
+        <item>The chicken (Gallus domesticus) is a large and round short-winged bird, domesticated from the red junglefowl of Southeast Asia around 8,000 years ago. Most chickens are raised for food, providing meat and eggs; others are kept as pets or for cockfighting.</item>
+        <item>Zebras (US: /ˈziːbrəz/, UK: /ˈzɛbrəz, ˈziː-/)[2] (subgenus Hippotigris) are African equines with distinctive black-and-white striped coats. There are three living species</item>
+        <item>A camel (from Latin: camelus and Greek: κάμηλος (kamēlos) from Ancient Semitic: gāmāl[7][8]) is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as "humps" on its back. Camels have long been domesticated and, as livestock, they provide food (camel milk and meat) and textiles (fiber and felt from camel hair).</item>
+        <item>The cat (Felis catus), also referred to as domestic cat or house cat, is a small domesticated carnivorous mammal. It is the only domesticated species of the family Felidae</item>
+        <item>The hippopotamus (Hippopotamus amphibius) (/ˌhɪpəˈpɒtəməs/; pl.: hippopotamuses; also shortened to hippo (pl.: hippos), further qualified as the common hippopotamus, Nile hippopotamus, or river hippopotamus, is a large semiaquatic mammal native to sub-Saharan Africa.</item>
+        <item>The lion (Panthera leo) is a large cat of the genus Panthera, native to Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a dark, hairy tuft at the tip of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane.</item>
     </string-array>
 </resources>
